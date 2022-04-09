@@ -2,7 +2,7 @@ import pygame as pg
 import math
 from settings import *
 import random
-from PIL import Image
+
 vec=pg.Vector2
 
 
